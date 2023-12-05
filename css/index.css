@@ -1,0 +1,132 @@
+*{
+margin: 2px;
+padding: 0px;
+text-decoration: none;
+list-style: none;
+background: black;
+} 
+
+.text{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+
+.text-1{
+    text-align: center;
+    color: red; 
+}
+
+
+.text-2{
+    text-align: center;
+    color: blueviolet;
+}
+
+.text-3{
+    text-align: center;
+    color: blue;
+}
+
+.text-4{
+    text-align: center;
+    color: red;
+}
+
+
+.text-5{
+    text-align: center;
+    color: crimson;
+}
+
+
+.italiya{
+    color: green;
+}
+
+.marquee{
+    color: red;
+}
+
+
+.img-1{
+    width: 259px;
+}
+
+
+.b-tegi{
+    color: white;
+}
+
+span{
+    color: yellow;
+}
+
+
+.server-info{
+    text-align: center;
+    color: yellowgreen;
+}
+
+
+.xasan-server{
+    color: blue;
+    text-align: center;
+}
+
+.spn-1{
+    color: red;
+}
+
+
+.spn-2{
+    color: red;
+}
+
+
+.h1-teg{
+    text-align: center;
+    color: yellowgreen;
+}
+
+.li-1{
+    color: white;
+    text-align: left;
+}
+
+
+.li-2{
+    color: white;
+    text-align: left ;
+}
+
+
+
+.li-3{
+    color: white;
+    text-align: left;
+}
+
+.h1-tegi{
+    text-align: right;
+    color: aqua;
+}
+
+.comp-info{
+    text-align: left;
+    color: gold;
+}
+
+
+
+.oilam{
+    text-align: center;
+    color: yellowgreen;
+}
+
+.oilam-info{
+    text-align: center;
+    color: cadetblue;
+}
